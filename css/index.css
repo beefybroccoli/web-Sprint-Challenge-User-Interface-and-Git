@@ -144,3 +144,51 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*---------------------------------------------------------------------------------------------------*/
+header{
+    /*debug*/
+    /* border:5px black solid; */
+
+    height:5vh;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: baseline;
+    justify-content: flex-start;
+
+
+} 
+
+body header img{
+    /*debug*/
+    /* border:5px red solid; */
+}
+
+body header nav{
+    /* debug*/
+    /* border:20px solid blue; */
+    
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    justify-content:space-evenly;
+    
+    color:black;
+    background-color: white;
+
+    
+}
+/*
+* [ ] box1: `teal`
+* [ ] box2: `gold`
+* [ ] box3: `cadetblue`
+* [ ] box4: `coral`
+* [ ] box5: `crimson`
+* [ ] box6: `forestgreen`
+* [ ] box7: `darkorchid`
+* [ ] box8: `hotpink`
+* [ ] box9: `indigo`
+* [ ] box10: `dodgerblue`
+*/
