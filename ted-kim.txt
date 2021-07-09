@@ -3,14 +3,24 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Question 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Answer 1 - HTML is a language to markup the semantic meaning of a web page structure. A sematnic meaning allow wireframe and basic organization of a web page. Additionally, semantic meaning allow bline user to interact with a web page via screen reader.
 
-3. What are the 4 areas of the box model?
+Question 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Answer 2 - a element can takes up a whole line or only partial of a line. When an element inherit "display:block" property, this element takes up the one or more whole line. On the other hand, the element with "display:inline" allows muliple elements to occupy the same line.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-5. Explain why git is valuable to a team of developers.
+Question 3. What are the 4 areas of the box model?
+Answer 3 - A box model consisters of content zone, padding zone, border zone and margin zone. The sum area of an element is its padding zone, border zone and border zones. The space take up by margin must be considered and calculated when a web page is composed of many elements.
+
+
+Question 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+Answer 4 - While using flexbox module, the items are aligned with "align-items:center" from top to bottom or left to right.
+
+
+Question 5. Explain why git is valuable to a team of developers.
+Answer 5 - Git is a version control tool. A software construction require numerous iterations with multiple developers. Git is popular and reliable tool to manage versions of software, this case a web app or website, by created branches and merging branches. Additionally, developers can check out a specific branch to develop spefic features of a software.
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.

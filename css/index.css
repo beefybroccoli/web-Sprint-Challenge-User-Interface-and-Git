@@ -127,8 +127,7 @@ p {
         
     overflow: hidden;
     height: auto;
-    width:36vw;
-    max-width: 38vw;
+    width:30vw;
     color: black;
     background-color: white;
     padding: 0.5em;
@@ -137,7 +136,7 @@ p {
 
     display:flex;
     flex-direction: column;
-    /* justify-items: left; */
+    justify-items: left;
     align-items: flex-start;
     
 }
@@ -242,11 +241,11 @@ body div picture img{
 
 #box1{background-color: teal;}
 #box2{background-color: gold;}
- #box3{background-color: cadetblue;}
- #box4{background-color: coral;}
- #box5{background-color: crimson;}
- #box6{background-color: forestgreen;}
- #box7{background-color: darkorchid;}
- #box8{background-color: hotpink;}
- #box9{background-color: indigo;}
- #box10{background-color: dodgerblue;}
+#box3{background-color: cadetblue;}
+#box4{background-color: coral;}
+#box5{background-color: crimson;}
+#box6{background-color: forestgreen;}
+#box7{background-color: darkorchid;}
+#box8{background-color: hotpink;}
+#box9{background-color: indigo;}
+#box10{background-color: dodgerblue;}
